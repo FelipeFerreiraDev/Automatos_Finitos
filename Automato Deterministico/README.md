@@ -27,3 +27,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [HTML5]
 - [JAVASCRIPT]
 - [CODEPEN.IO]
+
+### Exemplos de valores para testar na entrada
+
+001101 --> Autômato Aceita
+
+01111 --> Autômato Rejeita
+
+0001101 --> Autômato Aceita
