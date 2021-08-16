@@ -4,7 +4,7 @@
 <p align="center">🚀 Simulador de Autômatos Finitos Determínistico Genérico</p>
 
 ![Badge](https://img.shields.io/static/v1?label=DFA&message=AUTOMATOS&color=7159c1&style=for-the-badge&logo=ghost)
-![Badge](https://img.shields.io/static/v1?label=O_BRABO&message=JAVASCRIPT&color=EAD529&style=for-the-badge&logo=JavaScript)
+![Badge](https://img.shields.io/static/v1?label=_&message=JAVASCRIPT&color=EAD529&style=for-the-badge&logo=JavaScript)
 
 <h4 align="center" > 
 	🚧   🚀 Em construção...  🚧
